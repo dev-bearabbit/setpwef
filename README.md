@@ -1,7 +1,8 @@
 # setpwef
 
-[![PyPI](https://img.shields.io/pypi/v/kbodata)](https://pypi.org/project/setpwef/)
-[![GitHub license](https://img.shields.io/github/license/Hyeonji-Ryu/kbo-data)](https://github.com/Hyeonji-Ryu/setpwef/blob/main/LICENSE)
+
+[![PyPI](https://img.shields.io/pypi/v/setpwef)](https://pypi.org/project/setpwef/)
+[![GitHub license](https://img.shields.io/github/license/Hyeonji-Ryu/setpwef)](https://github.com/Hyeonji-Ryu/setpwef/blob/main/LICENSE)
 
 setpwef는 set password excel file의 줄임말로 엑셀 파일에 암호를 걸 수 있는 파이썬 패키지입니다. 이 패키지는 Rust 라이브러리를 파이썬에서 사용할 수 있도록 바인딩한 것이며, 사용한 Rust 라이브러리는 [umya-spreadsheet](https://docs.rs/umya-spreadsheet/latest/umya_spreadsheet/) 입니다. 바인딩의 경우 [PyO3](https://docs.rs/pyo3/latest/pyo3/)와 [Maturin](https://docs.rs/maturin/latest/maturin/)을 사용하였습니다.  
 
